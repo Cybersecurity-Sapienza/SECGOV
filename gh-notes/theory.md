@@ -1,7 +1,7 @@
 # Security Governance - Theory
 
-- [Lesson 1 - Introduction](https://github.com/edoardottt/MSc-CyberSecurity-Sapienza/blob/main/Security-Governance/theory.md#lesson-1---introduction)
-- [Lesson 2 - A model for Information Sec. Governance (Part 1)](https://github.com/edoardottt/MSc-CyberSecurity-Sapienza/blob/main/Security-Governance/theory.md#lesson-2---a-model-for-information-sec-governance-part-1)
+- [Lesson 1 - Introduction](theory.md#lesson-1---introduction)
+- [Lesson 2 - A model for Information Sec. Governance (Part 1)](theory.md#lesson-2---a-model-for-information-sec-governance-part-1)
 - Incomplete
 
 ## Lesson 1 - Introduction
@@ -25,7 +25,7 @@ We can divide E.G. into Corporate Governance and Business Governance:
 We are interested in the first one. (*Corporate Governance*)  
 
 Every governance system use the **direct/control loop**.  
-![direct control loop](https://github.com/edoardottt/MSc-CyberSecurity-Sapienza/blob/main/Security-Governance/resources/images/01-direct-control-loop.png)
+![direct control loop](resources/images/01-direct-control-loop.png)
 The final goal is to take care of threats and vulnerabilities (bugs, errors, backdoors.. etc..) putting in place a security governance process.  
 Remember that we can have threats in *any* part of the processes (not only technical ones).  
 The control loop starts from the bottom to reach the top producing reports for upper layers. This report contains the monitor of a metric that measures the effectiveness of the procedures.  
@@ -77,7 +77,7 @@ Information Security Governance (ISG from now) must ensure cost-effectiveness.
 A good (IT) Risk management strategy is therefore mandatory to implement a good ISG strategy.  
 
 One proposed model is the following by **Von Solms R. in 2006** in which we can see the direct loop in the front and new layers at the depth with a one big layer that is the best practice. This model should help in **“doing the right things right”**.
-![proposed model von Solms](https://github.com/edoardottt/MSc-CyberSecurity-Sapienza/blob/main/Security-Governance/resources/images/02-model-von-solms.png)  
+![proposed model von Solms](resources/images/02-model-von-solms.png)  
 
 We've already seen the front part that is the *direct control loop*.  
 It represents the execution of processes and actions and the influence of the Direct and Control loop on these processes.  
@@ -167,7 +167,7 @@ We will consider the following set of documents as component of an **Information
 - A set of company standards based on the Corporate and Detailed Policies
 - A set of administrative and operational procedures, again flowing from the detailed set of sub-policies
 
-![ISPA](https://github.com/edoardottt/MSc-CyberSecurity-Sapienza/blob/main/Security-Governance/resources/images/03-ISPA.png)  
+![ISPA](resources/images/03-ISPA.png)  
 (Image taken from: von Solms, S.H., von Solms, Rossouw “Information Security Governance”, Springer 2009)  
 
 Guidelines to create a proper **Corporate Information Security Policy (CISP)**:
